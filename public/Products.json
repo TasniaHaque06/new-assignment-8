@@ -1,0 +1,196 @@
+[
+    {
+        "product_id": "LAP123",
+        "product_title": "Dell XPS 15",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Dell-XPS-15-4-6.jpg",
+        "category": "Laptop",
+        "price": 1499.99,
+        "description": "Dell XPS 15 with Intel i7 processor, 16GB RAM, and 512GB SSD.",
+        "specification": [
+            { "key": "Processor", "value": "Intel Core i7" },
+            { "key": "RAM", "value": "16GB" },
+            { "key": "Storage", "value": "512GB SSD" },
+            { "key": "Display", "value": "15.6 inch, 4K UHD" }
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "PHN456",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Green-3380.jpg",
+        "category": "Phone",
+        "price": 899.99,
+        "description": "Samsung Galaxy S23 with 5G, 128GB storage, and a high-resolution triple camera.",
+        "specification": [
+            { "key": "Display", "value": "6.1 inch, FHD+" },
+            { "key": "Battery", "value": "3700mAh" },
+            { "key": "Storage", "value": "128GB" },
+            { "key": "Camera", "value": "Triple-lens, 50MP main" }
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "ACC789",
+        "product_title": "Anker Power Bank 10000mAh",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/power-bank/anker/10000mah-22-5w/10000mah-22-5w-01-500x500.webp",
+        "category": "Accessory",
+        "price": 25.99,
+        "description": "Compact and portable 10000mAh power bank with fast charging support.",
+        "specification": [
+            { "key": "Capacity", "value": "10000mAh" },
+            { "key": "Ports", "value": "2 USB-A, 1 USB-C" },
+            { "key": "Weight", "value": "250g" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "SWT101",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Starlight-8105.jpg",
+        "category": "Smart Watch",
+        "price": 429.99,
+        "description": "Apple Watch Series 8 with fitness tracking, ECG, and 18-hour battery life.",
+        "specification": [
+            { "key": "Display", "value": "1.69 inch, Retina" },
+            { "key": "Battery Life", "value": "18 hours" },
+            { "key": "Water Resistance", "value": "50 meters" }
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "MAC204",
+        "product_title": "MacBook Pro 14-inch",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Macbook-Pro-M1-Chip-3.png",
+        "category": "MacBook",
+        "price": 1999.99,
+        "description": "Apple MacBook Pro 14-inch with M1 Pro chip, 16GB RAM, and 512GB SSD.",
+        "specification": [
+            { "key": "Processor", "value": "Apple M1 Pro" },
+            { "key": "RAM", "value": "16GB" },
+            { "key": "Storage", "value": "512GB SSD" },
+            { "key": "Display", "value": "14.2 inch, Liquid Retina XDR" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "IPH567",
+        "product_title": "iPhone 15 Pro",
+        "product_image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone_15_pro.png",
+        "category": "iPhone",
+        "price": 1099.99,
+        "description": "Apple iPhone 15 Pro with 5G, 256GB storage, and advanced camera capabilities.",
+        "specification": [
+            { "key": "Display", "value": "6.1 inch, Super Retina XDR" },
+            { "key": "Battery", "value": "3279mAh" },
+            { "key": "Storage", "value": "256GB" },
+            { "key": "Camera", "value": "Triple-lens, 48MP main" }
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "LAP002",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg",
+        "category": "Laptop",
+        "price": 1399.99,
+        "description": "Premium 2-in-1 laptop with 13th Gen Intel i7, 16GB RAM, and 512GB SSD, featuring a 4K OLED display and advanced security.",
+        "specification": [
+            { "key": "Processor", "value": "Intel Core i7 13th Gen" },
+            { "key": "RAM", "value": "16GB" },
+            { "key": "Storage", "value": "512GB SSD" },
+            { "key": "Display", "value": "13.3 inch, 4K OLED Touchscreen" },
+            { "key": "Battery Life", "value": "15 hours" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "PHN789",
+        "product_title": "Google Pixel 8",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-8-Obsidian-4378.jpg",
+        "category": "Phone",
+        "price": 699.99,
+        "description": "Google Pixel 8 with Tensor G3 chip, exceptional AI-powered camera, and vibrant OLED display.",
+        "specification": [
+            { "key": "Display", "value": "6.3 inch, OLED" },
+            { "key": "Battery", "value": "4400mAh" },
+            { "key": "Storage", "value": "128GB" },
+            { "key": "Camera", "value": "Dual-lens, 50MP main + 12MP ultra-wide" },
+            { "key": "Operating System", "value": "Android 14" }
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "ACC321",
+        "product_title": "Wireless Headphones",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/5318-55349.jpg",
+        "category": "Accessory",
+        "price": 349.99,
+        "description": "Industry-leading noise-canceling wireless headphones with 30 hours of battery life and quick charge feature.",
+        "specification": [
+            { "key": "Battery Life", "value": "30 hours" },
+            { "key": "Noise Cancellation", "value": "Yes" },
+            { "key": "Connectivity", "value": "Bluetooth 5.2" },
+            { "key": "Charging Time", "value": "3 hours" }
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "SWT555",
+        "product_title": "Samsung Galaxy Watch 6",
+        "product_image": "https://cdn.webshopapp.com/shops/346435/files/435390195/600x465x3/strap-it-strap-it-samsung-galaxy-watch-6-44mm-fine.jpg",
+        "category": "Smart Watch",
+        "price": 329.99,
+        "description": "Samsung Galaxy Watch 6 with advanced health monitoring, GPS, and customizable watch faces.",
+        "specification": [
+            { "key": "Display", "value": "1.4 inch, Super AMOLED" },
+            { "key": "Battery Life", "value": "40 hours" },
+            { "key": "Water Resistance", "value": "IP68" },
+            { "key": "Sensors", "value": "Heart rate, ECG, SpO2" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "MAC678",
+        "product_title": "MacBook Air M2",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-15-inch-8-CPU-10-GPU-Silver-4066.jpg",
+        "category": "MacBook",
+        "price": 1199.99,
+        "description": "Apple MacBook Air with M2 chip, ultra-lightweight design, 13.6-inch Liquid Retina display, and fanless cooling.",
+        "specification": [
+            { "key": "Processor", "value": "Apple M2" },
+            { "key": "RAM", "value": "8GB" },
+            { "key": "Storage", "value": "256GB SSD" },
+            { "key": "Display", "value": "13.6 inch, Liquid Retina" },
+            { "key": "Battery Life", "value": "18 hours" }
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "IPH890",
+        "product_title": "iPhone 15",
+        "product_image": "https://gait.com.kw/media/catalog/product/c/o/conf-iphone15__1.jpg?quality=100&fit=bounds&height=700&width=700",
+        "category": "iPhone",
+        "price": 999.99,
+        "description": "Apple iPhone 15 with A16 Bionic chip, enhanced durability, and 48MP main camera for high-quality photos.",
+        "specification": [
+            { "key": "Display", "value": "6.1 inch, Super Retina XDR" },
+            { "key": "Battery", "value": "3240mAh" },
+            { "key": "Storage", "value": "256GB" },
+            { "key": "Camera", "value": "Dual-lens, 48MP main + 12MP ultra-wide" },
+            { "key": "Operating System", "value": "iOS 17" }
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+]
